@@ -1,0 +1,4200 @@
+======00000000454a11ca3a574738c0aab442b62d5d45,ApeBank======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0000010d23CcfEE520c3fb5a5ba9679cB9D83cBE,Exchange======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0002325fCaAAc6Ebf1254a626589147bDe1a2394,HorseyToken======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======000983ba1a675327f0940b56c2d49cd9c042dfbf,ShinyLegendaryPack======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======001366d1f309f4dd7d1c68129a574d59cfc45bf6,Vesting======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0018e66a1dea81fdd767cbb15673119b034b5cf2,BNSG======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======00391d08b3e68e476a774ada379258264eb74485,DipTge======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0043ec17ed15e7357785b034add7f33e30b792b8,VNFTMulti======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======004dcfc79b28ae0d52c2c013a328f84b433a1829,GreenXToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======005685a5a1889fc7bfc3e9c11657703a67fb663b,CoretoStaking======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======005ebcce7fc2d1432c82be1923ab938989271583,Partners======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======00603fd28964766e9351c0827e2938cf4fb20d8d,GOToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: true
+======0062179227c03efc81301ade144f447f2561edd5,Presale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======008da6dfe18c61844d614294932d52c50323d722,WorldAutoEnergy======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======009465879282117a55da964722c7e6fde72545d5,Zlots======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======00A6501Ba97246744874637A48D6e50DF3155936,SaffronERC20StakingPool======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======00b9af4a15435e56156f62a788fbcfb4fa8c6d13,shibnana======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======00bd8f02ec3f20818281fb9e78b00102331e86f3,SenderReceiverTest======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======00c300c5ae4734abc8b19b71bb2f5f03e829dd4c,EasyGame======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======00c315ac9ff89bb6afa7524cd159f0a9766e8c89,IMDEXDexchange======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======00eb85870295525c3fb424ed5c5c52868992bcf3,MultiPadLaunchApp======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======00f9f4f3ced5d4f6aedea8a92414206557df7167,SNL======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======01058f3806cc9c04e3542de8a284c902f3876f82,TradeToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0107d006806d07d32efe5fad1c68b7b63b90e08c,BasicToken======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======012910aa43d4be652a67935db4cc4db4b14593f5,AllyICO======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0130774b1aD8F739FF677fCFFBb0AdBa337D6BB4,ERC20======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0132bfca599d0b5b12f9160f6c2c44e453e3c35a,UNPC======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======0135c9a7bff72aa26e1d105ff5000e454e4dde7a,EthCashonline======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0149ba842ff86574953c957abb8d691c2833f8e5,MillenniumGoldCoin======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0176d6746520dd73c2db032348530520d64e074e,ActionCompose======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======018b655a274c8acc45750f5173fa4dc127df7c69,PBCCrowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======019d6222f05d67ce4f4d258809b149e8e4034540,EverGoldCrowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======01b00a312933be9a2bc2c6f229b9dd872ac2a62a,AlienBoy======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======01c627181089b6e10ee8316ec08516b3df7c4845,BrickCrowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======01c91a1b352a2903bc8378e5f645c9bc8685029e,ARPMidTermHolding======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======01e15429fedbc08dec25e127df09b4af17167f5e,VOXTrader======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======01e2082af943840d8705d85bc398c33049fcc415,UPLAT======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======01fc3e9bfc62ae9370694f968e33713f792c78cf,TellorProxy======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======01fd49a2042e962eb9b4f7fa1efaa8eac4cefeed,Finplether======Y
+Tricky Send: true
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======020da05d2d6ed505294717c1fe3a4430c07aca77,LockNLoad======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======02108e121ad72e76807dfd6cb04dfbded6ec63fe,Casino======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======021b475b05e8ed2d8e1184f24e097c88913df779,SpookTwit======Y
+Tricky Send: true
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0223f73a53a549b8f5a9661adb4cd9dd4e25beda,EtHero======Y
+Tricky Send: true
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======023a3dfff92e4e547f40b2664fd910fd8079fd69,DutchAuction======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======024453b666df07aa6e2336e98696bf96cb2aaba5,ProfiteroleWallet======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======024796bB9027e586E8fF98dAC7DEcB7A7f5b25AA,AuctionMarket======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======025d803c0e087e88aa7021984dcd87dc0a25be13,WIDEC======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======025dce2d39a46296766db7cac8c322e8f59cd5d9,EthToSmthSwaps======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======02677a13a168e20b8a29600110c01f3e9b0e53bc,ITCO======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======026fcd9a3690817497a004ac8063e6ef40c6d9e6,PIRANHA======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0288da3da52a8d209ffdc32316b099f0f4ce68b0,Spider======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0297c3970da02bb88a411d3665e0e2ecfad20206,PRSTokenICO======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======029af1f2c753c458c1e7fa04428e78cbe2eb09a7,CryptoBeginnerQuest======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======029FBEe1C8966B0fb79747539c19842CBE9f1AF4,KoinKard======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======02ab3549536c140af39ebb1c42f25a8e70b4a10a,MakerDAOPriceFeed======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======02b6361bbec213bcc34756bbd2877831d92a6c84,WALLToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======02b794ed04465b152f051bd5f1046c1bdb07c02a,RB======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======02b8b5d2c2f05c074850c5bdffdb711edbcd8704,CodeMailStampSale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======02d3aea48b443a0026ed9cbc91b97d7335aba323,HardcodedCrowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======02fbbb808014578e4848b137e02e6fe72e8c0dd7,VAULTB======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0322d40edc326add7a92de99a88741c31ff2442d,BridgeAssistB======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======03237a54a3badc2ab036de5fe9046e3100832e15,APOTokenCrowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======03324c5bce64a142f0110040851574903516b2ac,DarkPool1======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0337184a497565a9bd8e300dad50270cd367f206,DynamicLiquidTokenConverter======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======033b97a7ccdacd11d4eaeb8c8eac398c82557b8d,TokenVestingLock======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======033fd9f42f7e1566b893b31078a62b2b959ebd72,TRLCoinSale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======037213960f5fec272c05dda062c23b828de39445,CurrentCrowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======037258af746808a305ea25d72ede8749e829f513,AssaGlobalCoin======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0374b22e0727302e0d8db783726c7ec4989f88ad,GINI======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0374ceb2c551f37447d8b17cb9a5ebde53136937,SCCs======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======037c51c8756A217a74e25A4F40fC7641452bc57c,Crowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======038b266ef399abc291685e1096ef101ffca97f59,InfiniteVest======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======03a897c8d7d21688ae0a49ea087836b2667c2cc8,StrayCrowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======03bf97aa8830ab79d6b40f2155210d47fdb5cef5,IDO======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======03e2ce0c0b99998e6906b90ab6f9eac0defaff16,AllyNetworkToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======03EC2f6eecC16ec48872962A046673E3b9d7BA35,ItsaSubscription======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======03ec7bb59be036870ef696a2abf124f496d6735a,SancojTokenContract======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======042414775d33e11df7e63ea9bc6464d80fe5778e,NiranaMeta======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======04300d191c66a617a26ed97370f919e4d258995c,BCQ======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======0439357aed024dcfd42d1caf278628121b547bd1,META======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0441db9fbcc1686e39bcebd24b49aef259179e4e,WorldSafetySecurityToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======044374E40E77b85cC6373995D05a37dFfec9a164,VestingPool======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0453965956b6afbF5e758f16713dc5C0E114275F,Cryptbond======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0453aa2dafff030614d9afef6c724ec2bee60876,SwifyStaking======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======04697bb4ae52d03911d6acefbf5d69bbaf2b8811,Trade======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======04785cbcabb4dcac934d71bdf8bfb183e9301c66,YmUniSwap======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0479f22c80078e41390b7f6b491d8f771bdc15ef,OracleBitstamp======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======047a2c85394dd7f475027fc2bf1753babb454094,MultiTokenDeployer======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======048717ea892f23fb0126f00640e2b18072efd9d2,Etheroll======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======049135b904148a0cf263f064d7f7c702dd34d72e,StandardToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======049e6eb92fc1ca6bc6eca9f34ab43a9ad28d014b,CryptrustToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======04b602c678efac6023d64faa53879fb3fbdfb236,Bevium======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======04b710d1fc77c8e7002f539bb48feb560cb2892c,SVIndex======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======04bd346f40fe66303a39225bec1f28f66711582e,Chromium======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======04c5f178fc4e6665950285131b482a80078e4bd6,DividendDistributor======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======04c6204cb725c92f32b3dd56e21052acc38c253d,CTMinter======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======04c7a35d49aa364ad97600f5b2dadf16d0cf4c77,Proxy======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======04d190939a84d9729b6becd86bcf09317f2a3d3a,MultiTokenNetwork======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======04eb6febda6646032c6de98554e607f430c39797,Well======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======04f062809b244e37e7fdc21d9409469c989c2342,Joyso======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======04f7d1d2eb0c9884486543b7d62cc92dba481efa,rICO======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======050163597d9905ba66400f7b3ca8f2ef23df702d,ChiSale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======052b412bf5d2c219a68a309abd76bb16f0a43d38,MultiBuyer======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0531c928d539cbee3aa3bb3dae37ad507c750efc,Call======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======053b278e22e6119f1e333b10bd6d0ad3d7a8cd20,DecentralandVesting======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======054e1671d5d936613555776a99100f8eae6f62ff,Configurator======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======054e39ec36ee6b4a9953a12b52178d4235ddf8d9,RicoToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0557e0d15aec0b9026dd17aa874fdf7d182a2ceb,CFXQV1======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0569ae13ee0039Ac53C8457434288D92804DF820,TEURO======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======05711090b4d375431e841ea79e52666f623d3353,TemplateCrowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======057410216d0655272de93f0ecd084423be6c1161,GuessEth======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======059a469ED024ceaBc7f50b8eEFD7Da3DC53554BA,SchnauzerCoin======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======05a40435e4e6ecdabd630ba8593d50b6b6ce14f9,GOTokenCrowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======05abc997f9f4305ae8ab4ec06defbba8d48226d7,OracleEscrow======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======05c8af707eedcbe932816324dcc11e7f50c6e99c,LockNLoad======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======05ca268db7beee6791c2145653f2083ac56fe232,Crowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======05D072CBD90C132E2c4CfDDd2aD2cbe018Ec62fc,DESCOUNT======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======05dbbe4baed86d9b1da83e67dea6326e2617dad2,DodgersNFT======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======05ecc2BC49232905698f729FFAb51653f7B80Cd8,RCHARTpredictionV1======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======05f49d328452e284a5cb4a113660e9c3a8a7a62c,VibeXChainToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======06051930f6bc518f940b7694ec1d171f7cfb4650,Fee======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======06409b071a4338b2b8987f021a70ab552eb3bcce,SpecialTransferContract======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0651842ee1f973367138cd512709d81bf8a62217,TrackChain======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======066008e3256c7d017ee98bc680a0c0f082e3f9a5,TokenVesting======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======066c0a0e2be5d865abf1ff9d0b4bf364a2f5ffc1,ProfiteroleWallet======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======067e9bef275aedb28c63a25d04baf3ba13c07e9d,Level1OwnershipExchange======Y
+Tricky Send: true
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======06831e896731afc290c53ab5261b2fddc5cf57bd,MasterPool======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======069d7af2443e7e9c7f3228a1f739a92decfe65fc,AmunRewarder======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======06a18ecf4fb238a47c146c926d3017bd3737364e,DAICO======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======06a225f6af57e8332bc2426e2320062d143be322,interactingwithtoken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======06adba5ad6c494e536cad8afa1129ab9f7cb99bf,EOSBetBankroll======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======06afc184e28e67409f524ecfb713cb38ba4a2adb,LudicToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======06b4952c04f55733c90c57d40fd0f26524c33354,ITO======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======06c8907f00494ba8f49609d2fadf7b83f9a782b6,ProfiteroleWallet======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======06df0657ba5e8f5339e742212669f6e7ee3c5057,DarknodeRegistryStore======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======06e24feeaab8ff9b436dc466351852e972eef3ba,EtherHiLo======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======06ea256d8a2112aff4f700407e254bae8921811d,DungeonRunBeta======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======0704c210df63acbf1fb86bd088e7e1c3b554db3f,InternalTest======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======070bb4f057c276fde15ed7f636603353c8f72864,Sale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======071562d1b4eb9a9d342bddc69e24fad1922ec26d,BARL======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======073c81366c196618260f35128bb4446e8318ecfe,YFI2CStakingOnePercent======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0746c91dd2d0d657b41f4411bd5535608755278f,PPTokenCrowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======07610200840468ed6cf614a15c702d99ca937b86,Pool2======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0769ab44969d29bbc79ae0f57af5477496419ceb,CWTPTokenSale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======077bea94da8baa0fb465de3d0185bda78c821df3,PixelShiba======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======07a5efd3c3a5c540b8ae5d8604d1487e5bac4c8e,HoweyCoin======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======07a75c4a12059e8580cd7720015e1ac05d2afb69,Accessibility======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======07af5712489601f23df5321afaf7c0f787eac076,Contract======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======07b75d7cb447dfe91e3730747a0024bc35fd51c8,Presale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======07eefa3789a3298bf62f0427f07bcd1127322424,KellerWilliams======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0809bd190c94f4408e691c410e67bff0df5d225d,CryptoniaToken======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======0821f21f21c325ae39557ca83b6b4df525495d06,Aggregator======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======082d7a62142941aa13b2cc957accfe30b5a45d69,SocialMediaThread======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======083673c0be5a018c25e8e5df3aa57ef98cb57ff6,Escrow======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======084dfde02fa50143fcc3b6b3bace909aa5ef0233,SimpleCoinToken======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======085558b7561b51ffb0a4dabe7459d359c05b58cc,CrowdDreaming======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======087d061e75d35b12c8e6c7732332dc6eff85786f,PreSale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======088dfd01e4e279d9b9b89690dc1682c89fee1dcb,LUMA======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======08b67e38b4ecc788eb0cfbab72074c374ecddbf3,Bitlike======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======08c842e574128F9fEA89f53c718ac0BDea384859,NiranaMeta======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======08d0bc959bcf1e408fd2f246f176679df34c3eb2,RicoToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======08E29A2Fe4F1A7AAE2e9854EC5063c2D5401ad27,Treasury======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======08e8fa889fc02163a6f5c3766b985d9bc05a60dc,MeshCrowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0900a6804d73a50ee1f8b02b07c39c43f98e33f6,FTICrowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0903ffb8df0c5c45c65f9bbe1788f03b82d6a3c5,DogeCoinStaking======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======09198e39d92a76a01e41c768a4b112d50ba32eb8,AxtrustICOToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======0925bda166940800af5efd6c7d1136ddefbf0387,SaleClockAuction======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0927feb960012fbceaac13612300d565ed50ae57,SimpleTokenCoin======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======0928813b22c7b02ffbb64af0c3763b18832c8bb6,ETD======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======092e038af43a42e0332810db3f50b923fb256ff0,Free3======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======09380cc5f48037cd1338ddb13f262a78d65d27a4,CakCrowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======093c77e355467e26e10a49fa5669d16ca73beabd,CLIQWETHLPStaking======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0944393abcfc9879cedc19e070c056f70703f9b8,FourArt======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0947b0e6d821378805c9598291385ce7c791a6b2,LendingBlockToken======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======094c30a281ec611995c126fe53a0213e50171634,Test6======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======09541e5e03e3f10730fee50131168a99c5ce15c1,Crowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======096C0F64732758fa8F59A92AC7e4AF1E0dd10A4E,DogKing======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0980f403d58032e945a269a42955339f52624484,Bounty0xEscrow======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0990a01c880d016e19dcd49ec549f266f8b41bf9,TokenSale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======099540ceA8919D103ba1954AF970B9753D9f0Bf1,SobloToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======099bc21abe3536bc1ccb99c79b913b8118fac0f8,WrapAndUnWrap======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======09a032D8bDb3F12750FB5e926e795B9016a5E08E,OchainNetwork======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======09a202f4bece77ef58ecbf98083f3cea5d867381,LockedResources======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======09b267446c816534c19507b80cad16c7fa972225,MinereumLuckyDraw======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======09B36921289E2E4Da79D6f969c97a45910C10Fb4,Keep4rPresale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======09b510a0e0fa1886eed0e17ba9b42c001cfeb7f7,Crowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======09c7D53DCf146FB9E373d406fb19ed330D9323c8,DogKing======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======09ca35e4d35a7dd6fa8519d83bf7640300aa37c8,PrivateECONCrowdSale======Y
+Tricky Send: true
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======09DDE655fca9572155Ae4a7A0e8496552997fDba,DesportsStaking======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======09e19f479935a9cd714e03ea140f688ac896c26f,CandorFi======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======09e9666c667f0b2df3b5a9e8c9cb1a669e164d30,FricaCoin======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======09f9a8a61f9f634a93a52b7d358a651fc1127b2e,UtrinPreSale======Y
+Tricky Send: true
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======09fd12c95f8b4738609cf38d58ddad0abb792cd3,TripioRoomNightAdmin======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======09fe5a34b8b1ff725559efbe840921619f6d89ab,TheHashSpeed======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0a0e40db3bc35ea2242d4475a67454078f83a9bf,Crowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0a1524bfbb8905de0a3b15bdf8d678e7fb9c8c68,JesusCoin======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======0a1e80812f8a18319552a4f355b654e4900a73be,BtcPrinter======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0a25400e0b185077bd0d52a1cac7e46e38aa585e,SlotTicket======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======0A301a2bFfC0819F2C1a74531a36F06234E65FA1,PoolCleaner======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0A3238c9F12bd5ee2f9154BFFd3878c5b4078493,OneYearDreamTokensVesting======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======0a450affd2172dbfbe1b8729398fadb1c9d3dce7,DreamMaker======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0a5dc2204dfc6082ef3bbcfc3a468f16318c4168,PandaGoldToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0a8b758bbc4a5791c5647ca80351e008f1e3bca1,ItemToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======0aa21ee67da833a203223e6d7fc04d3a119dcd95,CrowdsaleContract======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0ab3a55fDA938aeCa67dC8e3A8677E89a6B819Cb,ICOStartReservation======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======0adadf6b6be1afad94d908b6bc4695dada64074c,DragonKing======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======0adbc3922f80ecb0e95292ea1f6273360c2f4e6f,GasBurner======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0aedffd0d5895262fff3dd6221333b355889c46c,GOBToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0af02d90d359a4628ace226df184c3e8b4b816ff,EOSBetBankroll======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======0B117cd026EeC3af86eBEdA40B6b25eED1662E60,UBlockChain======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0b15b24954e871df6903ad23ab343f6ff9f119a4,WeeklyFrinkLottery======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0b2fb51f4713f08ab72173bc83ab3bba71b537cd,BuildtheBear======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0b3a0edd51ee5e7900666bbfdf139ea55ccf0ca0,Team======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0b4298856285e36adf7682fbd06c8ffa3eeae72b,CTCToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======0b44e04a6FC702B159897AaA8A8dEadcA4EA5832,zenApeBioManager======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0b4d94e04e1fe219d8ad6b9bc7cd0176e273dc28,Vesting======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0b5cc2fc6f5f080a8710ad638915c03e00cdcbaf,Kemayoshi======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0b6198b324e12a002b60162f8a130d6aedabd04c,AuraBribesProcessor======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0b72b3fB545fe6cb63E27273078d7A8656a34c42,Airdrop======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======0B78C64bCE6d6d4447e58b09E53F3621f44A2a48,MoonCatReference======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0b7bda8ad804cb3318ae8490b984c2883ada2154,CryptoAtomsLogicV2======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======0b97e04b413da101b340dd9ed07e0b063e72bc75,Locker======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0bbf6636277daaa6b97e890849da35a9a819fa0c,Zlots======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0bc0a7b096504704e10bb19b0c6ce46232f22eda,DOGEToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0bc50963b8eccb87b904e2fdfa209a30b1ca0ed0,GrandTheftFOMO======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0bd1dcc84a9839385faf957234e29b588f118391,MetriaStaking======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0bd6d7c98438fdf75c079fd5b61f7beea571b214,ICOStartReservation======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======0bdaf0d7eb72cac0e0c8defcbe83ccc06c66a602,MortgageManager======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0beab0ffa882bf49a2cc49b2e5aabfeb51f70082,IcoController======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0bee1b7287969e1e8afb50eb587e93217ffab3a3,Crowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0bf1a1ee9ef65b79b5811a9a03396d0f2af4fa99,RXBbitToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0c003006e6ae1b2509e027e2b2441720b3da85d1,PaymentProcessor======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: true
+======0c04081a9d7baab199b416aaadb68fbb3de7332f,TemplateCrowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0c0efb13c5ed869c711810a01f8f8b616e340db4,SwapperV2======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0c199144D2952294daDBE14ea2D01155eE921232,TokenFactory======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0c23661f6264e46a21e919053bf1f453301f89ab,BulkSend======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======0c47f8017b0d18244693c497d05aa1bc0913ffbd,SyncBall======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0c577fbf29f8797d9d29a33de59001b872a1d4dc,DexdexERC20======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0c6139206f995d160edb00422a5ac819bc94295e,ChainBot3000======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0c73260f143f198bd5f34a66487da5eb3bd2bcdc,ESCBAirdropper======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0c73331f6f6283601337bae85a971ded65c144bf,Stakeable======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0c749474ecd356cb399d87eb60fd078368d24d4c,ShibaGold======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0c798d76ca0bc1f9b9776d83c83edc80712d06f9,TokenVesting======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0c92580d834945789196a473d499a4ae65c7a26a,TFTOKEN======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0c96d6eb32d5edd6e88cb8c582fee86707b55851,Lottery======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0c96f49d723b95561170a96339904305ea98819d,ComplexChildToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0cb04783732bcfd6c5d44c166d71d97a50a257e5,COBToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0cd161ef9eb19a95fefa69c36f9cf552c19e6b8f,AnimatixToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0cd3f7a4d5f35d7ed2ca6eb7ffc0a4f838e1c46b,AToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0cde6b9e3fbe3780fe9c36e4a5e99f721a76811e,Crowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0ce036bfbb5e2306eb4c22bcf5c763be591f61d9,WarfieldToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0cf80e6f69846a12fee265ec6afbd5d172beb2a8,Distribute======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======0cfda67b0067f1a99deb1cb80e0273a3f26d317c,TrekChain======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0d0c17dd9c8031d9cf49f24ea61ddd6553a23775,salescontract======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0d109f70dfe8ac7e9e5c466d91a62c6df5e5038c,Presale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: true
+======0d11511ab22ec6e7a87f439a663862f1ec6d4a4b,SMCT======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0d2b775a17a973049345afce12c064e4b7121810,KOKC======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0d30598f68e75574a6285f62eb5d7658bd62bd8b,SCAVOToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0d5014f9ca158086d2a8dba9794faac9e1a7e137,SPC======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0d689d1d3ef39e379329d9fc88eabceccc1215a0,BuyZygoma======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0d7c864bf6c86bf11da2c8068b4c4edee4d76080,DappVolumeAd======Y
+Tricky Send: true
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0d8603a39663a29134a8957722a059594e89fa53,RenderTokenInvestment1======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0d93b0188b86eae82201751c696b6bc0f96881f9,SCardLong======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======0d96b90b0e88c67baa57250cdae9aed6232ce2f4,KOIOSTokenSale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: true
+======0da9326d7da81f8b19a8ec2d3255ab7076768c2d,FENIX======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0dae7caf45d9c473a8f6ae0d4934e5c3b2dbc371,SafeGuardsPreSale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0dB315a8343E3e7849bd12E89A2C3Cca9BE58cd4,SuperFoMo3D======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0db847406c33959dd0b30fd6962b60f1f3bfcce7,TwoXMachine======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0dd644300b9cc67917d09ae4bee413e600304266,AcreToken======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======0de197dc289d680e734ccab866d529505b2638db,CryptoMiningWar======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======0DE52e935f36Be729f339bA68233A25a3b47362a,TemplateCrowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0E07dDfd23C5FA254f55437519DBDA2Aa176FEF8,PegNetBridgePool======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======0e29eaed3e3cfef358b1657b5573100dd4628a55,Crowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0e31eAf75165c71aA75B69fc172d596Df8cf5F1B,DripFinancePrototype======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0E4C70b90E96fe541739c1Ffb25731cdBDFD08C1,ShibaCombat======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0e5632feb2c2619dba9c7e2dc5a7ed3fd14969da,ArconaMarketplaceContract======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======0e5A18Ef801360F27140e93CB4f62FE716556E45,NFTStaking======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0e6a831cc6cb7bfe0f3957adbd6d2d5d29be1b71,DungeonRunCore======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======0E6Eb1bB9CB93A7AD453894A86A08f1caF174370,RewardsDistributorV3======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0e786d42fd70e4a51ab5f80aa5da19e74337e7f2,Swap======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0e7f319cbc780254c9b347956fffefaedd1b0e50,Crowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0e8354928233b8b954CA8D284eCC83A976D783Fb,BridgeAssist======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0e836f53cdd35339aca7a00477afed299299a141,Ecopay======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0e9186d1d0c7aa2212e3f42405eda1bc35d826a9,DailyDraw======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======0e94278497e51629c78697dac758fded6c8f188f,Dividends======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0e98f782ea6e0e80a919801e35ed35013d3f26ad,TokenSale======Y
+Tricky Send: true
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0eadc52b44f66a7d8c12c33e41c876bc59ba5287,NiranaMeta======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0eb152d2bba8af722d7e296a1f223d819c3bbb1f,CarbonExchangeCoinToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======0ec1792b793500deda834e53ab10101371cdb41a,PreSale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0eca9bdBD49C6980610EB6cA15515Dc1a54B86f1,StakingLPRewardFixedAPY======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0ED4643926d93666E9ff42b209881088F642815D,InstanceClaim======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0ee6071bc209c19161f6d17f8597d762b4d30806,CFL======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======0efc7cc8f111e1c836aacca44609bd2a5200afd1,RedPacket======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0f042ad89fb5f78c707e7d397afdb172f9056d19,CSCTimeSaleManager======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0f079df30695b2722bfe1bfb65d7ba891f569a46,TESTERIUM2======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0f12093697fadbf11e22a960e126677f4009c4e2,SecretSantaDEX======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0f1a836db9f18099b7d78dfc59b6b4c646d28697,SwapperProxyGenerator======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0f445d4bb5b290f5e89a54828516c343c9ca3dcd,TwitDoge======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0f70e371335956beacb8a536da2eca290a93805c,FolkitoTimelock======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0f71b8de197a1c84d31de0f1fa7926c365f052b3,ArconaToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0f72b988c30a4e4472607703c3363dcfe0f58e0d,GiftCrowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0f7d5e9db2525b34682f474534b039016032ab17,PlayerBook======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0F8a868013933eb920A3EE7EF4A9d13ACeF568bf,TemplateCrowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0f98b76664ecf1a3488e3c4d97017940f28e1da7,SKYFTeamFund======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0fa2afdE683F65Df3B72c8d7Cb206007655F801E,ERCVault======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0fc84ab084a08971e6f52a9da41bfae82b546ebe,Oracle======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0fe54467e8c773be601aa6123bb27d641b0b8f7f,BatchTransferWallet======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1002226135e9e42235319bba1653a6d930febf83,PiranhasBattle======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======100614ffda1bd77a694e215ca0f618da1bf8b7af,FlexionCoin======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======100fe59316884e4219550a24da3f4f43f69782ac,PendingManager======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1036109659d341d9d2a3aac9e0d36dd7eab1810f,VAMPRebaser======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======103c2c150a2dbcc277ee084c59881978060c8c22,SmartBillions======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======103cee8863ae6382497acee96ed0d257760bda96,SDAToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1040C6Fe8420A85697b03c28ADD9C105bCF3edA8,Collection======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======1045f5ccb01daea4f8eab055f5fcbb7c0e7c89f0,DEFIATO======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1058368ca5fdaa770b5e86a19ec484feb046c3aa,EDUBLOCTOKEN======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======106596ac2decbca863cdc3d896183f60f4d716a8,TEXToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======106caedfb61c38bca02fc0fa2a523e3e54148a28,EG======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1081cd1adca45adb90a407a1acadbef985d637ff,EthereumWings======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======109cc498c561a755fd61126920938377801f3bc3,TemplateCrowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======10a04b16e73fd78e6df9bcebedc02a24632e0345,TokenCollector======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======10a5f6dbd1f9e56fe09df25b1163cd299d5d2413,EthernautsExplore======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======10aaf33ef4fdfd34bb2346ecdb1ca944be4e0db5,YFMSTokenLocks======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======10b0c1e9c41ab66ab9836d54cd225c0c1aca94c5,FOOD======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======10b31e9996baf9e1e55d57c1b382dc7615e341d0,Hanabira======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======10ba4d7b21cf2576ac503e78d5e327090458abff,Krypton======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======10bb6420909206630e1b31dfb455c2dd36f3e87f,CareerChainPrivateSale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======10dabd1629502e1a3bd3ef9a4ddbff2c9ba0d15a,TokenHolder======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======10dc623fcb8a3c151875f03d442103cbf6469be6,DeBiToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======10ea48c2ae4017a707e57e61a4c6bd6170d8b0e9,TokenSale======Y
+Tricky Send: true
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======10f69079977c443e7e3c62b79e7ced16d696b175,YFMSTokenSale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======10fd49fe3c5dd00be61b720be6b47235455950dc,SeeleTokenLock======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======110d1aaf6fafCd881d4Fe2f4644D2B795FC33cA9,SINBondDepository======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======112cdbf9333670c8ac0f3b6100abd62f50a7f3b9,TheBlueBird======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======1135053a937e422c27a834642288304e35bb1340,CoreContract======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======116676d386404238f54589ccdbbce1638aa8cb0d,AGASCrowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======116aD07c6310885D74c154D3bDD9CD5498151E81,Pool======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======117235ae46f539122211f3cd663dde36f803803a,BEAR======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======1173E06F660b3A49F6c4ccAcacC864c2e8ec721A,BULLISHFINANCE======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1175D9094E821d703971714946e7F02dE7525F8B,TemplateCrowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======117a00B7763961D54a1b96D8419bAf6789593CAc,TokenizedProperty======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======117f51394EBAfBb8e868bDA8B91aeE7aee50a6fE,ChancoShop======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======118d33a273c37c9a36a43a6ef71a7bec014a4d89,MainHub======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======11ab1c266776228b7f620dcf666dbea205aff2c7,TokenSale======Y
+Tricky Send: true
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======11ce3c5ecfa4cc788eaa94157a63a1ca4863a90c,ShiryoMarket======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======11e0442155Fb3a9f0c5feDE5284543DB8B9Fd476,wTCBank======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======12076676fa376b1ca425a54ef04b036f7e2af154,AgnosticPrivateSale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======121b5fa476207c7090ee64a03cd74cac67591d0d,EPR======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======121be4d1e89039da81f97f072ca89fe1d661f202,GatewayVault======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======12320d5ad4477fb210c8f5286ee517b316723b3f,Fermaminter======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======124374f24bff86cf043e31344077ece93bd46b57,EtherBags======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======124f967d50dedf23d9b1cc4ac42851513bc67c07,KpopCeleb======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======124fb958fa6546ec35253e15dc5730afb6fee5e1,LazarusCreators======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1259ef4e1df170e0ae0b31c03e9d7de7f57be90f,LTE======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======12605f121c88ebfdb62161eeb8317dfe8fc7e325,Penchant======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======126b53a1b0f6d036f4ef93a4e5af984bb4b95861,DistibutionContract4======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1271a93e5bea009455da9c0146be98e50eef1536,SaleTracker======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1279b6ecf687fd118ef1ed91bfb0c634708e1a8a,EDC======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1280E96618349eF01571Ee148d850672d72f3E51,MStableStrat======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======1282adc3920f7926392d7ebeb44522d0296ae977,ZHVGToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1284ff048b2cf5f86374103ee094a86cc7cba4b3,Dancer======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======12863901098aa24fa81f1ab952a449f6c8211afc,MultiSeller======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======128f298c3801374738cd7d31353221482348c2fe,COMEO======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======1294d23b74c103d0e6d9c8f98abe9383c7900735,WrapperLockEth======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======129a8d8000b8e80a99aa09fe40d189947108bcad,StrategySushiEthWbtc======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======12A31ba664dF56d0d3c7A8dFB15f676dB4203184,TemplateCrowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======12aff02d181488b8b235d00d91a3a5a8ce156c8f,VNCERCBridge======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======12cd2eebdec1a9072d85a3e27cd4c4d43de58278,FlogmallAirdropper======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======12da07fcea34f3208f101a00828c391cdee3e390,KNOWToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======12db622c98d75f6f19493d9acbc7479fe382ec44,TBECrowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======12dc8CA41E214cBB5aCDa995597107798AC17ACe,StakingRewardsFactory======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======12e08f4173cee1da7dafa17f51f5316e4cc51a8c,Bridge======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======12e26F7eEfF0602232b03a086343e9eF20825ec3,WBCATM======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======130c640ae4916d20987781dbce83db7219eb1101,Bounty0xStaking======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1312a92d492369b5ad74a8f0bd19bc91d6cc32eb,TF======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======131660375660dcff41b102417697509590da6c53,SiringClockAuction======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======131d390ee96fcb896ac649262513bbbffca9a657,Configurator======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======133688c77a47163377f77c183102f6fe316a00e1,AkmeToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======134d3c5575eaaa1365d9268bb2a4b4d8fd1c5907,CrystalDeposit======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======134decfcc18a98f721496d83a4622e57e54f0c6b,IronHands======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======1360bc11e4f62fceb8598d760105fe0d85a38aef,SUTokenContract======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======136b1e6e149f0dadf3c662fb6feec3d7587aaadd,UNITDummyPaymentGateway======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======137f0a82473df04cd601b20c9943d89cdd592fd6,WebcoinCrowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======13878560fbd018c17b173a59f639eaa6b158a690,YTC======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======138cfc76f0dd29c47e025eef722d78650f478b01,BNSG======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======139d415b5fd0981fbee78d0fa503168855b34652,Mining24======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======139d9397274bb9e2c29a9aa8aa0b5874d30d62e3,PreBOUToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======13a022fd7ee1f43d13071878fe2e62c876c10f45,Factory======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======13b34ffd37f853146337a5661f20f8a0b0d3d2d9,MachineGun======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======13b849156c1e6d0ead6605562ed9268b9ffd1736,TokenRK70Z======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======13ba85769491a399a58506c40056d4c274878fbd,StakingManager======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======13bf8ecc26fdc3002853d26b2ca685015679622f,AxiaVault======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======13c0eE1398DE55b575651A44000274dAB1B9850e,Validator======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======13c22dbac007959a2e619f4172c831f13a1ab4c8,adaCoin======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======13c9f62ff3df3badcab15fb17c2ecdf16ecc52bd,DogeGang======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======13d82b5ab85ffa33bc952913d7e2de686f13e676,SMLToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======13d9f4cc024aa90dc3a22b8115f5f0cbb1e56e78,ETC======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======13ddd5c273a027608a42727a46f8250011645166,Planet======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======13E03AC5e36c4CfAbdcC70DDe55456635b109EB1,HDT======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======13f0f576e60fad7d47c05cfb6d1738326c718c7e,SellableToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: true
+======13f91d2eedfe45596d8c1bf055fed188ae85553f,Trade======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======13faf426017d15c0124474bf667f15fe6c296a4d,GalaxyPay======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======14192ba2d54081d065055728e1be4b646cff0c9a,Lottery======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======141dA177d219B44673170B7c7A9bc587f7a9Fa60,VaultRebalancer======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1422ef8c9d3bb4b80e94dc3f8cf6d3e86130c8d3,StakingLPRewardFixedAPY======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======142382f8854790016740e9442b45182143834a18,PreITO======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1437f97a7c8634337c12c3a702a2c1e5fecbf9c5,ProxyTest======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======144ca17f04654f1cd25c4b610873125df35152d0,TheeToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======14618b119bfd6e76921b61f2ef1514df63f19636,WEBPOUND======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======146766d444e21f3bbe3d486b1520c5a673336956,DPRStaking======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======147c6e79cbc375f101bc44dd54b03ea051a446cc,AirDrop======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======14ad96506f7d714679788372efb8602238d76375,AENCrowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======14c7f742d9a2fe6fe13fafbc1cb24be74ac5708d,CharityMiner======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1500770ed4b47ad5016bba98c8a7105b17c06fdb,TokenSwap======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======1507bfb096052f62eb5ae9a53f0c9ac385809add,ExchangerV3======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======151df1f9344009fc3ecdff8997bb51d86cf02817,SingingOwner======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1522ef881f967ff1d82bceaf36d30e7de0fdadba,GDILDOAirdrop======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1524ee9e34bf12d58c7a15578ce0efd4d5a7f11e,EthimalFounderEggs======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1529620732836117a969463266e0f3c0442b4ad2,AxiaVault======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1535E51cAF6A0B7e54652eb7DE5D66220D00d8Eb,DiscLendtroller======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======153b61f2f26fdff3745f611f884ae899992ca7d9,VictorTokenSale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======153CdDD727e407Cb951f728F24bEB9A5FaaA8512,LoopringIOExchangeOwner======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1543d0F83489e82A1344DF6827B23d541F235A50,AIgathaToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1552168924fba0aa0a0e3587497d3865acb16f58,LockingContract======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1553630a8b4b1b314b0ac457be8ea70f32cfa461,Degen======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1558b9afb91a2185495debc22a9cce11dabe33c5,CTBoatGame======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: true
+======155ab9cd3655aa6174e1e743a6da1e208762b03d,CleverMinu======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======155e29901458661f4c3245d12682f7d3d80561cb,AtomicSwapToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1583546c494134d5464b2f005cd2b0e0030a81f9,BiosRewarder======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======1596a07255326dd389044fa66dd1cefdf0e5f7ea,DRMTOKEN======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1599d20035db7a9f58684d77fe01c4bd3e8be070,TokenERC20======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======15a322aaca55b30112b7f43b4c737e448cccc8ab,DayTrader======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======15a78d9f5c1342279c18c0f057afdd8bf333d47f,ZOS======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======15ada2a8e62134806a86db3030fefc0a2a13cc99,SaleClockAuction======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======15c182401e5f9d1636100930d6fbabf20e3fd840,TFTOKEN======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======15d113ff0212c161fe5565885a7bb772e7064bb3,QUINToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======15dEd15fE32EBac0b6cFb08cdAB112cca8380423,BonusRewards======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======15e0716B2BB4c1E4906d34291064960F122D779A,MarbleNFTFactory======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======15e90976b01cbc38e203cf9f367fba6f3462b5ff,LiabilityFactory======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======15eb50e2c1d802453075a77a9876089fafa24519,PreachersCompFiLqdt======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======160b2007118fea66c23a13dab3a21acc09341b5e,CloseSale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======16172f24b626b58eda8ba0dad551d60821af6599,iCrowdCoin======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======161c011006beac7f79bb02aa3c92b5b4581bf58f,selfdropToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======16213dc6fbc6a1080c67f56a05b01e5e372c160e,CryptoWCRC======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======162c07f7076b5287cf1d599972c480c51ae00743,YaxisVoteProxy======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======164b76d48ab64ff4f28c3bffe2ef82d8910cecc7,Agnostic======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======165BA7A94f563023E3AD3a0cE13745BBa87bd2Cb,LexaYield======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======165cfb9ccf8b185e03205ab4118ea6afbdba9203,SolidStamp======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======166012f219fb070330e814c9fc24eea578a33765,CappedSTO======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======166dB9403142aB71a7422419B2071881ade192bB,ChirpNetwork======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======16710fc2575692888e7e919169abfd58399fdf10,StarCoinPreSale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1680aea93ba9d54d5247c8dc86f0beef1214883f,HappyEthericHome======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======168a7bcf8f14ad47be7dd62bc33d1411c88ff8cd,ReferToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======168bd4c75a5da8c343d31369e73de02eb87ba940,Meiji======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======169310e61e71ef5834ce5466c7155d8a90d15f1e,EternalBattle======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======169b86cbb18a24f519a46f4e87a93e987c61db06,ColorfulCreationFloppyDisk======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======16A74e558ed96592d47fCa124A7a450B81D17523,ImageAI======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======16c9c875ada685f931c8b3de34b3f01dab70d589,RefundVault======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======16d790ad4e33725d44741251f100e635c323beb9,OwnTheDayContract======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======16dbade6bc34c4a99b157d555111b7710044e39a,BasicToken======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======16dc14f9deffd26c53c3391288fb7d2ba1786105,ActionExecutor======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======170627a8b75fae816ba3e5426815a00aa72764c4,BuyFlowingHair1ETH======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======171c41dba0e50934a1daac43f865be75f8ac6570,Presale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======172f20402afc807c8a5566bceed00831adb938ca,WarfieldToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======174Bb5D84b78E9e2248e7AA2C789Aeba82F72F68,LuckyTree======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======175695cd35e021b6f9dea64df6ace9ecfc43fb0b,PastryChef======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======175937867e4053df3c881919f75b4b0a44a8ef6d,eosBASE======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1771e600e72cca46abeab857f301b6bf5a032ca7,Mainsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1773c9fbb20d00ded851b8bc8b8b9b8860c4a9e0,Crowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======179c98E6620a3A5c7A5bf46fF1e0FEf62DC385a8,Claim======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======17a03553719001e05dc19a20f5e82ee76923a985,SaleAuction======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======17ac7de614fbdc988b693f7175cc14d7301210a1,GemmyCoin======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======17b4264df9cda863979116ccc0d767f262df5007,TheSecretSale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======17cad83c4360ae47647c3e4eca2d337d3c876391,evaiStableCoinFund======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======17cCe8F9C91B6427258d09086bB40A6C217153f1,WrapFeeBurnerWrapper======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======17d873ea9b4541a2e3410b14a69d98fb72ed6e3f,CoinLoanCS======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======17e16d30a05324b44cf78df847137fa1220448f8,CyberChainToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======17f096dbEC22C9511F535b0bD759313645615553,StakingRewardsSameTokenFixedAPY======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======17f0badcdf99b0a94429478d2e9ddb1ff13174f7,knf======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======17f8aFB63DfcDcC90ebE6e84F060Cc306A98257D,NebulaToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======17fa9c502952fc271d1641fcaf815362be274643,QBASE======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======17fcb1bccfdb9bbf75f05f058a7220ffa8ad4f71,Litecoinprivate======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1818a49508dd2b80a38df1569a3fafe8ff086229,myfast======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======181c20ac082aae3398b6e9164ec6926ac7dbf840,MultiTokenDeployer======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======181cfd48e5d22233e8b5c5dd3908123a2d9ef733,YFMSVault======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======183614d40cee16bf6fcd9dff51556f398ec8d360,DisputeCrowdsourcer======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======18373e7b8bd24ecb0af8e9c95548360ef787b781,MainSale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1860b26155ce3319ace6d1a7ad3a363b58bc97c5,MatchBettingFactory======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======1860d43a2a1b9b03907eb6a6b92ce256694dd315,NescrowExchangeService======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======18774f3d973204c163e2c7db0ad4a334a211c08f,HOStaking======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======18777aec0b231d1a4a9c66b51253088a03affdfc,LuckchemyCrowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======188d315b1c698ca678c8e3891ac21e097763afde,ControllerImpl======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======1892694cdcafc62a66f6b82acd9f0980d6d0c80e,bar======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======18a27a0e42d02d88ea2800ffe3bf094fb2de3e53,AirSwapHandler======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======18aA6E402a0AA22b7f61a5Ace68fDDC629Fe44ec,preDGZToken======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======18b23534678568fbaafb972e8f95e9b7a0518db1,AVIVAccount======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======18ec2a30ecaAEc7a77953Ae4Dc57D80626A86825,Trade======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1903d83dedefedaf6cfee5828e7e66ae6a2e1d97,BatCave======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1905747858d3250c52a2bdd596144accf7f1c8ff,SaveDoge======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======193192b74e3d09f49cd7624f59b43170137966df,PreSale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======19324c99fc1b2fd7ca827c98f6554085f147dea7,BlockMarket======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1938C2248A4013dCB776dcAC482008FEb33c66dd,OilDraw======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1966d718a565566e8e202792658d7b5ff4ece469,nDEX======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1967c1b0e597df7a688d4f21288462e318b3a02d,EDPrivateSale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======196d4a8d04ecb49997be4684aafb6a89b8474375,TestRobotarCrowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======19852c58a67dce5cb66d69fff5511a5aceb8a830,Presale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======198db7aed25b0c18d11384f178058a43c6eca0ae,SGTEscrow======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1998b337ca479a623299a76bdafdf75b41070b79,PreITO======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======19d957fcfdf73371db5abaf07e569e8798112991,MyRefundVault======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======19dc7ce24a0b66a187ae6d4cbd065eae7caf717a,ListingsERC20======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======19fc30d247c7bd60f42e3794b56df540dd805d0e,FTC======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======19fdd6eeccdf4bc30f363f63af44981c1f6a75c4,BuyEnergy======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1a018ff6042863614e0e88cd615412588fd0a2da,CTCToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======1a03bbd9484bedf470e81a45b3d6c99e6df368d7,MeerkatICO======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1a050d77003caee532df18d04d86b99ca15bf9e8,POOHMO======Y
+Tricky Send: true
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======1a1cc2d35b24ca659ca26e03bd667b56a10f8933,Kanobiko======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======1a42ed4d873c298e729ac83a3ad41de66e99a6f2,SocialMediaIncomeCrowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1a5a007812e21e27735d8a4b557176fdee9109ca,Test11======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1a60f1a367d8f97a7fea2f49ab8ed7f10b9b9f64,UsdgMarket======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1A8081fEe8393822f1Fb9966f9Ac10b226817728,AUACoin======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1a851ec3f9c97c7c62e8fc2ee5ee5224d5772605,Treaties======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1a930F92c780ff359466472D667738bcF6B294BA,Strategy======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1a93f35557700cdeab1205673126fea1a5fcd814,EDROP======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1ab9570281c7b3ceec24524d4fd7d94a8fe1a8c8,NaorisToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======1ac25698fc33cd12c13925b9f2b0713ae3eb534c,CosmicStake======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1ac821a5ab398d62011b008acf5598308ee4d4ad,PreICO======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1acc5652735bc9ed6b420627d93411ff6a6df549,EthealPromoToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======1aE23bB6a87FA22fBA6Eecd3A2ad9e9DaA0cca4D,Bridge======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1Af691Cf6d6944C53e42dAAC8395e63F46186E68,AvnFTScalingManager======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======1afc45878fda488e08b7a7b5a33f0bcf2457c677,BasicToken======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======1b002cd1ba79dfad65e8abfbb3a97826e4960fe5,CryptoMiningWar======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======1b0578280d0b654a4527bcc1fecdfb098c17dea5,CCCO======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======1b11728ca77935e666c1da9694a6a7a2990d861b,FILSTokenSale======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======1b1d8b0ccccb8dbadd6f6333b4e6971214233150,TRVLR======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1b32ba3d9a3f1e71e820f3317f07a877e46c7aa5,UniqlyPresale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1b364423762565c96ec2dc7eec7f78029bd6966b,DefitOperationVesting======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1b50eb0264dc7e90936e18894f5885381bb7eac3,RYZRSwapFactory======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1b53d25fd98511b02ab71d2e4638d897e65b178c,BitMEDSmartToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======1b65f5d2aac34ec551dca6aaa327bf237a67db66,SmartWolves======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1B6b3faBb47a2048ad97455bC8f298097a5f5278,Factory======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1b6df88f60b6b7c2b7f9b6beec4a6b3841a10d6c,Primacorp======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1b794d0aa615eb34f6c61d12e0841fb18721cad7,Token======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======1B8a506A1fC508F840A05fF0A4c665A4579C4E75,SelfllerySale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1b91518648f8f153ce954a18d53bef5047e39c73,Crowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1b95ba31baacb58b6c72d58ddf8bd2b6e6cc73a4,PubeCoinDevTeam======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1B9D88A4e0f6194715a052180bf89D43f82Be5Dd,FxsAllocator======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1ba0ab6ef2d6fbd773fec0dd7f4633ae360db65e,ChoweToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1bd367eeb05d9c7f8b5ba488df1878d9b983ebfd,Crowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1bd8ff39b407816e16e97bf0f0aa2cfa154544cd,Thanks======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======1be138effe5fa00b4c2d5ec62b8d555646389476,ESTTokenSale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1be6ff0d69f43f401cd2ff0cbc200d2f7ecee452,TemplateCrowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1be7c913f9c0b04d9b85d760861a4f9381d0ef98,BCBToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1bf79ebfd7f40d1f227f6a09a48e86ffe5a46655,BridgeAssistant======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1bf9127cd47533d955599e82a2b3c641c3c26bb7,StakingRewardsFactory======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1C06e21Bd42C331f6A7b9914e60C60B5B8F02DC5,KinguinIco======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1c2ed928851919715c267267c9c04a9efb52ff28,ATOMICLABS======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======1c49d3c4895e7b136e8f8b804f1279068d4c3c96,TokenSale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1c4f85e7bbddf3ee92e2999c63a7b85d64d57663,MultiToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======1c5078be442d3aa47affc55ea5a9565dd1d15690,Deposit======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1c6664f603bdd77aacfd50edcbb5ccbd12c564ec,AirDropRedeemAFTK2======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======1c7c4348f17f690d271ff4de3a9214cb09cff926,Degen======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1c8E3d04d04EceEbC6cE5925e7E715d6195f0189,TATN======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1c9d0cabb4a77002895ea5b351bab07addfc6b66,DeconetToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1ca27f9f05953525f1cfaeada8673153c78ccdf3,Rainmaker======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1cb4490b75d3c15ac6cc099affeea60503c93805,TheWhaleWins======Y
+Tricky Send: true
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======1cb99678eb927a19a9bf7d76cd6e7479cc8ee8b0,Bet0xgame======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1CB9f755065E804bb2671C2b51c4c054EbdF34C2,LinaAllocation======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1ce799a159ae1cfc6225da8d3f9b232c42ee9bf2,MyToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1ce865c81e76aafd2003e69acd2d196d19aac144,BiddableEscrow======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1ce95ce5aebe5beb20d69c308cd0e21797873c38,Crowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1cf86333e10e4250cf1bc015e682748084314ec5,Dispatcher======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1d077a1d4aea0b006deb50a066062a379f4493d4,Alluma======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1d1811189e2a8dd8d5f22cdc164273bf3d6fdd43,NSPToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======1d354412C0608c7614D167b00999Ae0878A28542,NGOTVesting======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1d3d644261f525963f6b6d7a169a1bce666451f8,BridgeAssistE======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1d4ccc31dab6ea20f461d329a0562c1c58412515,TalaoToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: true
+======1d4e96e7eb3f0ba2215abfb9625cf170ece9e939,Vault======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1d5f3c1a6de3c13e8a50b09ab3e93db71b5016c2,BurnBridge======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1d6a8165fb01a3e792fc913da2b41da2aabfac9b,MobileAppCoin======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1d867b40a70474462bfd820804ed3a50ef5d0f91,DevelopmentVesting======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1d86a854da490ff74dedc7abe281fb468f8c19ee,MultiVesting======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======1d90a6825550feac7406fbc7714b67f329a8d3f1,Airdropper======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======1d9489f8c87ec8f3a20e7aca4bb2f489a3b25282,CryptoAtomsCore======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======1d968ef5f8b3d53fbe2980590e94c8901a8421a1,Contract======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1d9be4a5681374c54b1821d0beac3a678ad128a4,StorageController======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1d9ca3546b84d3103b551c7d5006e4db172e06e6,Arbitrator======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1da73fc09ea07781482994036a0eecc7e6952dfb,TydoIco======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1daecd4761835ffd36c4f1cd3b7325ed110ee71e,Crowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1Db10d198C2D66A8767e7aDde7FA5E5Bf2D57604,CrowdsalePhase1======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1db542d3d1df0ea7746f4a3c32341cb47877c193,SPIKE======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1dc378ebc882506182a47552dc23b99d0fb3b6ad,WrapAndUnWrap======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======1dd03bdd8dd36d96cf24f155f3430d5f7a3630f8,SharesToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1dd17d9ed3e16e41fd9c9e7690d2a2256cbeb0d4,StakingYOJI======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1dd6363c7f7a3150fb7ab13c29fe92f5bab23457,CharityProject======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1E188CE96D3A00da7c59F3c2D3e188220948aC56,VRFIpresale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1e2b8fd2664ec56e1e7b4b0be9f769a57f85cfba,KirNetworkToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1e2e9cabb5744c314de7978c081bd57c357e000d,CryptoMyWord======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======1e4dfaf4840fd9f4f4deb7e89437b37c4b8efdc5,TokenERC20======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: true
+Forged Transfer: false
+======1e546c3d8ee919cd21ce24afc4dd3297cc98ff10,Presale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1e5c718b4377b5deeef01aff5bdc29a9528df1a3,MetaccesETH======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0x007a422fd7e5b47dd2cb078f250388b406548cd4,BLTTokenSale=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x01bbec6573ed7eca0f307a10d2b4ceb669816b4a,TEFoodsCrowdsale=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x01f0634272eca6c152a3be0eaf385bbdc5a49dc0,OMToken=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x039331f0daf060703958fda674534c975e154885,TheBeardToken=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x06d2e67cffd1441d0afee128f60465a1a0a51df9,GVPE_Token=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x06d5697043f8e611807b221e74f08a28bb4e6e13,KaasyToken=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x08a9683c51b55cb756452bdd38f395bc92295cff,CBCreatureStorage=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x0a1524bfbb8905de0a3b15bdf8d678e7fb9c8c68,JesusCoin=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======0x0acbcc45dde258b18c11b16b06bdc64fd91913ac,Crowdsale=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0x0e9186d1d0c7aa2212e3f42405eda1bc35d826a9,DailyDraw=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: true
+======0x108116d36907223e13ba244b5bde5893cd5e730b,JubsICO=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x109f913c33f3b15023b36714caa2be6c0daded01,BinaryOptionV2=======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======0x10a5f6dbd1f9e56fe09df25b1163cd299d5d2413,EthernautsExplore=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0x11d635bbba3f9b8f7c9b91ca9f315a2207cb5ad5,dHealthToken=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======0x122e492bff7b2a62f5d18eae7bcf3333e5e985ba,Mintible=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x131660375660dcff41b102417697509590da6c53,SiringClockAuction=======N
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true ==> error
+======0x14ad96506f7d714679788372efb8602238d76375,AENCrowdsale=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======0x1507bfb096052f62eb5ae9a53f0c9ac385809add,ExchangerV3=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0x1755711268a9f07f46369714bbb7c4d7ea14231d,communityToken=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x1c0e03ab42b2f107931eb3617516cddb04cd278f,BRDLockup=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x1e85407e080a5e6d20a3a95fcdddfc32146fc8e5,SafeHavenToken=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x1ed779c9bdfbac63445846e0f0c75a983a5916e6,BetOnCryptToken=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x0a5155ad298ccfd1610a00ed75457eb2d8b0c701,Oasis=======Y
+Tricky Send: true
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x0b19dc8df2f75ae40c10c871ab95e3bfbe98fb5c,Getether=======Y
+Tricky Send: true
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x19b10788d9e048d8f2e63890fca5c0b518fd325b,CryptoTrader=======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x229f07c5df0d19919185dd08b61dd9a26151ddfe,CentraSale======= N
+Tricky Send: true
+Super Storage Permission: false
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0x4eb3ce14fda3a874ecad0e9ad988258c827bae82,DepositBank======= N
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0x5182618e956deea92fad51de09a4db32e3978f9d,CentraSale=======Y
+Tricky Send: true
+Super Storage Permission: false
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0x21d83b0c82e6735061a1f80efe5b7cc3dc112912,ROBUtilityToken=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x234da73f6c033848d98c263d1f340f4a861c98a0,LockedInToken=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x26d13bc704eeac5302ee27751d7873562d215a91,TokenMacroansyPower=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x28eec9c792b7c68d225f2e8c12ba3c3d0183b368,Presale=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: true
+======0x29548baf82278c4207dce57d1a44c4ef07981b03,GENSharesToken=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======0x2a3921d36a5945c3b8d7c4df8388fe9028c090b2,Presale=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: true
+======0x2e2e0b2ef981b0e3e5602128f0d520293ba7f338,SInv=======N
+Tricky Send: false
+Super Storage Permission: true ==> error
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x2ec3fea4b59b6c0c32fb7442590f6abb9926a34c,INMToken=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x323a60675142021adc78b147c72d479de923f4a5,JWCToken=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======0x341f9c6c60c07fd11ef0bbc93586a2b9d68bfcf0,VINContract=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x35d76c3db8e826907d2a977500b54b3914ecc020,EladCrowdsale=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x3798b1c6e7bad3f0720c0e9ddcdb018857e13a4c,RareCards=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x3dfaf3a340168a4552ab1937ea9527aae47c5ea1,StopIcoCoin=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======0x405207beb564422f44e90bf1966dadb447c65081,DataAuction=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x43ca6017e714123a2780cc1d556b45d13a911a3f,BigLuvCrowdsale=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x43fcf330c317a07c0edc4eff3681f92af6283325,DigitalThothToken=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x45038b67b1b55d7e3e142eec49ce6bd2254c4e57,NARCoin=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x69fd0e5d0a93bf8bac02c154d343a8e3709adabf,CryptoEngineer======= N
+Tricky Send: true
+Super Storage Permission: true 
+Super Transfer Permission: false 
+Self Destruct Permission: true 
+Forged Transfer: false 
+======0x66170cee8e3f262ae9a77288a3b99e7c19a60cef,RegDocuments=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0x77146c8fa21cbc8602f8fe75fa03df04e8889609,SmartLotto=======Y
+Tricky Send: false  
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x4946583c5b86e01ccd30c71a05617d06e3e73060,ForestingToken=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x05f49e3e0a27efa05d60c19cd8f0ecc951d3717e,Etherhero=======Y
+Tricky Send: true
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x4ca68c8ecb94acbc736bcb4119fd76aa5170b226,StupidCoin=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======0x4dc868d79611c2bdca51dee62873eb3a31423b47,DecentralandBuyer=======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0x552ed8253f341fb770e8badff5a0e0ee2fd57b43,VestarinToken=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======0x574bcd8e994dba2e3a90d95cec585e3ca204404d,HorseyToken=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: true
+======0x5cc9f6238fa41ebd6af96279f44f27564fbfd9a2,Token=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x6012ad64342641d261d032758087e21e5737c68e,IOCT_Coin=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0x63d00d500956b564c03a3663362a793ed9a1ec51,CSportsLeagueRoster=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x65491e583965edefd44c9c272ade17a3fd8e5877,TokenAdrTokenSaleProxy=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x69a50b4989e00c1278a3135f60b4ccb49a97c465,GridcubePlatformToken=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======0x6c7b36428b1644b476e392eb22f08d353416e586,Crowdsale=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0x7192bb75777dab47ef6fbf6f6c0e4bcbb2294f38,SaleClockAuction=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0x72636c350431895fc6ee718b92bcc5b4fbd70304,preSale3=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======0x77070dd59c298d766585de4b5ec2b4549ab28ecc,SealPrivateCrowdsale=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false 
+Self Destruct Permission: false
+Forged Transfer: false
+======0x79186ba0fc6fa49fd9db2f0ba34f36f8c24489c7,Token=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======0x79c35f96604665f505b63cfeda725bee4d435c4e,PrivateSaleBCO=======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======1e5e75c5e30a40d28ddca7e4ee0ba6bb9b8405f5,OZTToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======1e6d9c0dac7c0d0006139c401525efc1e97d55c1,SparksterToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1E6f69eD9375c3Ba4B8E09Ed9ceE6Bd31b3848AC,RedCherry======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1e744cd47049f4b2ac2b571feabc58b771cd9ef0,MakeupMinter======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======1e7c6b740f45e42c722db1b286b23a60acfdf6e2,Bounty0xEscrow======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1e821be29FC8cA0119aaD169dbe246c8672cD2dB,RarityGardenMembership======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1e891c587b345ab02a31b57c1f926fb08913d10d,ShinyLegendaryPackFour======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======1e8e90b6304fd3f092a4b2c14923dc6a929d5961,AirdropNEOC======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1e96e61b2caea08919bd100296c5186cbdfcd062,TokenStaking======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1eb807fa2ec2aede1736fd0c5300e462cfaff2d9,UtrinCrowdSale======Y
+Tricky Send: true
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======1ec0c5c2ac5edf73be6e7f53cf9a3b51ca1853fb,Crowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1ecef026261d7a59926dc9757a002d799fe09d14,ZenswapDistribution======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1f0480a66883de97d2b054929252aae8f664c15c,NePay======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1f10019f0f7a99a34812cc157e7b7074a7772757,CABToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1F153EFFd425F593D6F9fC44Ce5cb25756b86a42,VictoriaVRVesting======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1f165586c4c57766971d11e7467dd5ebb153f16b,UBURNSale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1f2f65e5fbc46812b058d1979a90abce9734fe24,Crowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1f36c5611a402876b75dd3a6595c6ee4718f794c,CyberClassicToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1f3d836c90dd2d2e99d62334d28b6911f35ee9e1,SAFE======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======1f44a7c20bf67f2948736ac4de65e1093e3091c2,NebulaCrowdsale======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1f4dce2bf4345fb630a185483699015aa6961f37,GemsPlay======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1f52274ddf8fd6ce92633ab33f708e5b0b39b134,SecretSanta======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======1f58af89d12d4a60647f99a9fc71dd0367b56df4,BurnupGameCore======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1f5c51139298b224fb2dfe371cc95177aba7d246,TokenERC20======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======1f63781b2d2b3eb12239ba397874c6741fbcc75b,DBangkoToken======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1f6e6af195376fb39bb7fede37aa5fb28ac12b44,RaindropClient======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1f7d19b855abbe9e957165d15da1fef0bc98c34f,NTC======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: true
+Forged Transfer: false
+======1f8a1733debf150f4f38e72c811fc1af0e7e5e7f,TransferProxy======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======1f8ace1da9db00249b06a39cc656c9def8af004c,InterestProxy======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1f8c387ebd02240a1bcb6b2864087464f719adf6,BBLibV7======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
+======1f8c42327952dc4c3941d80e4259dc2299317e0d,ICE======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======1f8e87aa0d8255a503d9f009f2e41a799b98706c,CryptaurDepository======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1f93cd41ef4608b6ac52a76bce24a2b05f345ee1,PermissionedTokenStorage======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: false
+======1f962d6d920e7f48afb839d077bb1bca77e0cbd0,LisaCramer======Y
+Tricky Send: false
+Super Storage Permission: true
+Super Transfer Permission: true
+Self Destruct Permission: false
+Forged Transfer: false
+======1fab9d2996767db0ca6af12fd92c1f2aab2675a0,ZethrSlots======Y
+Tricky Send: false
+Super Storage Permission: false
+Super Transfer Permission: false
+Self Destruct Permission: false
+Forged Transfer: true
